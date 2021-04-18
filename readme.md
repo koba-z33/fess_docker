@@ -1,4 +1,4 @@
-# gitbucket + postgres + fess 
+# fess 
 
 docker-compose.yml & setup script.
 
